@@ -32,5 +32,5 @@ using AdventOfCode2023;
 //
 // Console.WriteLine(sum);
 
-Day5.solve();
+Day6.solve();
 
