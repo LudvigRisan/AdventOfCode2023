@@ -8,10 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68c286c8-b3ec-4a6a-b9de-56ee64729762" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day10.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2023.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2023.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Day10.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <workItem from="1702113653340" duration="3609000" />
       <workItem from="1702118090819" duration="57000" />
       <workItem from="1702118163918" duration="4358000" />
-      <workItem from="1702201627820" duration="5000000" />
+      <workItem from="1702201627820" duration="5429000" />
     </task>
     <servers />
   </component>

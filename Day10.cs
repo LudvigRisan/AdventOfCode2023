@@ -30,6 +30,8 @@ public class Day10
             
             line = reader.ReadLine();
         }
+        
+        //Manually discover starting node to be a 7
         map[posY] = map[posY].Remove(posX, 1).Insert(posX, "7");
         
         Runner runner1 = new Runner(){
