@@ -8,7 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68c286c8-b3ec-4a6a-b9de-56ee64729762" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day8.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Day8.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2023.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2023.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys_rider",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -70,6 +73,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ludvi\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="68c286c8-b3ec-4a6a-b9de-56ee64729762" name="Changes" comment="" />
@@ -81,7 +87,8 @@
       <workItem from="1702113550060" duration="89000" />
       <workItem from="1702113653340" duration="3609000" />
       <workItem from="1702118090819" duration="57000" />
-      <workItem from="1702118163918" duration="1357000" />
+      <workItem from="1702118163918" duration="4358000" />
+      <workItem from="1702201627820" duration="5000000" />
     </task>
     <servers />
   </component>
